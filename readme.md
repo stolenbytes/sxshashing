@@ -1,6 +1,6 @@
 # sxshashing
 
-This is sample code for the technique described in the article **SXS and UAC and persistence**.
+This is sample code for the technique described in the article **SXS, hashing and persistence**.
 
 To build and test code you will need **Visual Studio Build tools** 2013, 2015 or 2017, either standalone or one integrated with Visual Studio, and **cmake**:
 
