@@ -38,5 +38,5 @@ x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.0.0_none_346120bcec3f
 Winners key:
 x86_microsoft.windows.common-controls_6595b64144ccf1df_none_aaab8e0a9f4bd480
 Full WinSXS path fake version:
-x86_microsoft.windows.common-controls_6595b64144ccf1df_65535.1000_none_9ccadd9f3f1633a7
+x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.65535.1000_none_972634cc7771ad3d
 ```
